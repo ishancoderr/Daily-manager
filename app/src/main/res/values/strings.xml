@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">watch</string>
+    <string name="Ringing_Volume">Ringing Volume:</string>
+    <string name="Brack_Time">Brack Time:</string>
+    <string name="Work_Time">Work Time:</string>
+    <string name="Background_light">Background light</string>
+    <string name="Pause">Pause</string>
+    <string name="task_finished">TASK FINISHESD!</string>
+    <string name="start">start</string>
+    <string name="Reset">Reset</string>
+    <string name="background_light">Background light</string>
+</resources>
